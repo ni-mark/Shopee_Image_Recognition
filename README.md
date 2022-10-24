@@ -1,5 +1,5 @@
 # Shopee_Image_Recognition
-Capstone 3 Project for Springboard. Image recognition and categorization project using python PyTorch package.
+Image recognition and categorization project using python PyTorch package.
 
 Motivation 
 
@@ -41,7 +41,7 @@ Model Fundamentals
 	- 2 Linear dense layers
 2. Efficient net b0 without weights 
 	- Efficient net is based on a CNN 
-	- This model adds more layers and complexity to the model that aim to increase 				prediction of labels
+	- This model adds more layers and complexity to the model that aim to increase prediction of labels
 3. Transfer Learning: Efficient net b0 with pre-trained weights
 
 Every model is compiled with:
